@@ -1,0 +1,31 @@
+body { 
+    background-color: rgb(29, 29, 29);
+    font-family: Tahoma, Geneva, sans-serif;
+    color: rgb(208, 213, 219);
+    padding-bottom: 15px;
+}
+h1 {
+    padding-left: 15px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(132, 132, 167);
+}
+h2 {
+    padding-left: 15px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(191, 193, 194);
+    }
+a {
+    text-decoration: none;
+}
+a:link {
+    color: rgba(39, 37, 28, 0.877);
+}
+a:visited {
+    color: rgba(39, 37, 28, 0.877);
+}
