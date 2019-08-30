@@ -4,7 +4,7 @@ function createNasaHTML(nasaObj) {
     let nasaHTML = `
     <section>
         <h1>Cool NASA Picture of Space</h1>
-        <h3>Title: ${nasaObj.title}</h3>
+        <h2>Title: ${nasaObj.title}</h2>
         <p>Date: ${nasaObj.date}</p>
         <p>Information: ${nasaObj.explanation}</p>
         <p>&copy; ${nasaObj.copyright}</p>
